@@ -17,7 +17,7 @@ class AGCASESTUDY_CASESTUDY_CPT {
 	private $post_type = 'case-study';
 	private $label_singular = 'Case Study';
 	private $label_plural = 'Case Studies';
-	private $icon = 'format-status';
+	private $icon = 'format-aside';
 
 	private $meta_fields = array();
 
