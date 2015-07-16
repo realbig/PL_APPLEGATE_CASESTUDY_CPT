@@ -4,7 +4,7 @@
  * Description: Creates the "Case Study" custom post type.
  * Author: Joel Worsham
  * Author URI: http://realbigmarketing.com
- * Version: 0.1.0
+ * Version: 1.0.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -12,7 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Define plugin constants
-define( 'AGCASESTUDY_VERSION', '0.1.0' );
+define( 'AGCASESTUDY_VERSION', '1.0.0' );
 define( 'AGCASESTUDY_DIR', plugin_dir_path( __FILE__ ) );
 define( 'AGCASESTUDY_URL', plugins_url( '', __FILE__ ) );
 
