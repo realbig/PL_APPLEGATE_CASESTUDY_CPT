@@ -63,6 +63,7 @@ class AGCASESTUDY_CASESTUDY_CPT {
 			'rewrite' => array(
 				'slug' => 'case-studies',
 			),
+			'menu_position' => 58.3,
 			'capability_type'    => 'post',
 			'has_archive'        => true,
 			'hierarchical'       => false,
